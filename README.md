@@ -100,12 +100,12 @@ Blocks|Data structures in validation|https://diyhpl.us/wiki/transcripts/scalingb
 Blocks|On disk data structures||
 Blocks|Re-orgs|https://www.youtube.com/watch?time_continue=839&v=wtTQ_1WyUoY|
 Blocks|Pruning|https://bitcoin.org/en/release/v0.11.0#block-file-pruning https://github.com/bitcoin/bitcoin/pull/5863|
-Segwit|Segwit|https://segwit.org/understanding-segregated-witness-905cc712c692 (5 min| primer) https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness (25 min) https://www.youtube.com/watch?v=AjBpIkfB-ac (7 min video| technical) https://www.youtube.com/watch?v=Txfy2mFe16A (27 min video| technical) https://bitcoincore.org/en/2016/01/26/segwit-benefits/ (12 min| technical) https://bitcoincore.org/en/2016/10/28/segwit-costs/ (20 min) https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/ (20 min| SegWit history)|
-Segwit|Segwit and scalabilty|https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/ (30 min video| 2015| conceptual)|
-Segwit|Tx malleability|https://bitcointechtalk.com/transaction-malleability-explained-b7e240236fc7 (5 min| tx malleability primer) https://www.youtube.com/watch?v=jyDE-aFqJTs (first 21 min of video| malleability| 2014) https://bitcoinmagazine.com/articles/the-who-what-why-and-how-of-the-ongoing-transaction-malleability-attack-1444253640/ (9 min| 2015 tx malleability attack) https://github.com/bitcoin/bips/blob/master/bip-0062.mediawiki (8 min| withdrawl BIP| 2014) https://arxiv.org/pdf/1403.6676.pdf (25 min| Mt. Gox and tx Malleability| optional)|
-Segwit|Segwit and blocksize|https://medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4 (10 min| block size primer)|
-Segwit|Bech32|https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/ (35 min video| bech32)|
-Segwit|Wallet Development|https://bitcoincore.org/en/segwit_wallet_dev/ (10 min| technical)|
+SegWit|SegWit|https://segwit.org/understanding-segregated-witness-905cc712c692 (5 min| primer) https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness (25 min) https://www.youtube.com/watch?v=AjBpIkfB-ac (7 min video| technical) https://www.youtube.com/watch?v=Txfy2mFe16A (27 min video| technical) https://bitcoincore.org/en/2016/01/26/segwit-benefits/ (12 min| technical) https://bitcoincore.org/en/2016/10/28/segwit-costs/ (20 min) https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/ (20 min| SegWit history)|
+SegWit|SegWit and scalabilty|https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/ (30 min video| 2015| conceptual)|
+SegWit|Tx malleability|https://bitcointechtalk.com/transaction-malleability-explained-b7e240236fc7 (5 min| tx malleability primer) https://www.youtube.com/watch?v=jyDE-aFqJTs (first 21 min of video| malleability| 2014) https://bitcoinmagazine.com/articles/the-who-what-why-and-how-of-the-ongoing-transaction-malleability-attack-1444253640/ (9 min| 2015 tx malleability attack) https://github.com/bitcoin/bips/blob/master/bip-0062.mediawiki (8 min| withdrawl BIP| 2014) https://arxiv.org/pdf/1403.6676.pdf (25 min| Mt. Gox and tx Malleability| optional)|
+SegWit|SegWit and blocksize|https://medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4 (10 min| block size primer)|
+SegWit|Bech32|https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/ (35 min video| bech32)|
+SegWit|Wallet Development|https://bitcoincore.org/en/segwit_wallet_dev/ (10 min| technical)|
 Wallet|HD wallet|https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki https://medium.com/bitcraft/hd-wallets-explained-from-high-level-to-nuts-and-bolts-9a41545f5b0|
 Wallet|Wallet BerkeleyDB key value store, data file, environment, logs, flushing|https://bitcoin.stackexchange.com/questions/51435/migration-from-berkeley-db-to-leveldb|
 Wallet|Wallet key types: Regular, watch-only, hd|http://bcoin.io/guides/wallets.html|
@@ -115,7 +115,7 @@ Wallet|Wallet rescan|https://coinguides.org/rescan-reindex-wallet/|
 Wallet|Wallet transaction creation: ATMP||
 Wallet|Wallet transaction metadata, getbalance, time received, confirmations, IsTrusted||
 Wallet|Wallet upgrade||
-Wallet|Segwit wallet development|https://bitcoincore.org/en/segwit_wallet_dev/|
+Wallet|SegWit wallet development|https://bitcoincore.org/en/segwit_wallet_dev/|
 Wallet|Fees, fee estimation|https://medium.com/@jimmysong/the-fee-market-explained-76b294947b42 https://medium.com/@bramcohen/how-wallets-can-handle-transaction-fees-ff5d020d14fb|
 Wallet|RBF|https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki https://coinatmradar.com/blog/support-zero-confirmation-transactions-at-bitcoin-atm/|
 Wallet|Coin selection|https://bitcoinedge.org/tutorial/dpp105-karl-johan-alm-bitcoin-wallets-coin-selection https://scalingbitcoin.org/transcript/milan2016/coin-selection http://murch.one/wp-content/uploads/2016/11/erhardt2016coinselection.pdf|
