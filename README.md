@@ -1,4 +1,33 @@
-# Bitcoin Curriculum
+# What is this?
+
+While planning the [Chaincode Residency](https://residency.chaincode.com/), we put considerable effort into finding the best resources and creating a curriculum around Bitcoin protocol development.
+
+Bitcoin is constantly evolving, and so we expect maintenance of this document to be an ongoing task. We could use your help. Please **consider opening a pull-request** to keep this document relevant.
+
+There are three portions to this curriculum:
+1. [Study Groups](https://github.com/chaincodelabs/study-groups#bitcoin) designed to provide bite-sized grouped subjects that you can either complete bookclub style or alone.
+2. [Seminar Videos](#seminar-videos) recorded during the Summer 2019 Chaincode Residency.
+3. [Bitcoin Syllabus](#bitcoin-syllabus) a collection of resources grouped by subjects.
+
+
+# Seminar Videos
+
+| Topic    | Link  |
+|----------|--------|
+| Network partitioning & network level privacy attacks | https://youtu.be/StnOVBbIpD8 |
+| Undocumented P2P Design of Bitcoin Core | https://residency.chaincode.com/presentations/P2P_Design_Bitcoin_Core.pdf |
+| Researching P2P privacy attacks |https://youtu.be/qKNEUfnYue0 |
+| Security Models | https://youtu.be/6gGcS4N5Rg4 |
+| Alternative UTXO Set Proposals | https://youtu.be/F3BCP0wiYOw |
+| Fee estimation | https://youtu.be/PYA1f2xlIOM |
+| Malleation Exercise | https://github.com/dongcarl/malleability-exercise |
+| Advanced SegWit | https://youtu.be/JgNgnwF9hfY |
+| Wallet Development in Bitcoin Core | https://youtu.be/j0V8elTzYAA |
+| Partially Signed Bitcoin Transactions | https://github.com/achow101/residency-trezor-t/ |
+| Breaking Bitcoin Core | https://residency.chaincode.com/presentations/Breaking_Bitcoin.pdf |
+
+
+# Bitcoin Syllabus
 
 | Subject                       | Topic  | Sources |
 |-------------------------------|--------|---------|
