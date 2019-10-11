@@ -93,7 +93,7 @@ Consensus Changes & Hard Forks|Light nodes|[Lightweight node wiki page](https://
 Consensus Changes & Hard Forks|Current research (spoonnet, etc)|[Spoonnet: another experimental hardfork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-February/013542.html)|
 Cryptography|The 3 Seminal Events In Cryptography|[The 3 Seminal Events In Cryptography](http://doctrina.org/The-3-Seminal-Events-In-Cryptography.html)|
 Cryptography|An Overview of Public Key Cryptography|[An Overview of Public Key Cryptography](https://ee.stanford.edu/~hellman/publications/31.pdf)|
-Cryptography|Finite fields, Elliptic Curves, ECDSA, Schnorr| [Finite fields, Elliptic Curves, ECDSA, Schnorr Cryptography](https://www.youtube.com/watch?v=DcGm_4-ig1o), [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)|
+Cryptography|Finite fields, Elliptic Curves, ECDSA, Schnorr| [Finite fields, Elliptic Curves, ECDSA, Schnorr Cryptography](https://www.youtube.com/watch?v=DcGm_4-ig1o)|
 Cryptography|Bitcoin, Chance and Randomness|[Bitcoin, Chance and Randomness](https://medium.com/@hugonguyen/bitcoin-chance-and-randomness-ba49a6edf933)|
 Cryptography|libsecp|[State of Cryptography](https://scalingbitcoin.org/transcript/stanford2017/state-of-cryptography)|
 Cryptography|State of cryptography for blockchains beyond ECDSA and sha256|[State of cryptography for blockchains beyond ECDSA and sha256](https://diyhpl.us/wiki/transcripts/scalingbitcoin/stanford-2017/state-of-cryptography/)|
