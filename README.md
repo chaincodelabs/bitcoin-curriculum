@@ -114,6 +114,7 @@ SegWit|Bech32|[New address type for segwit addresses](https://diyhpl.us/wiki/tra
 SegWit|Wallet Development|[Segregated Witness Wallet Development Guide](https://bitcoincore.org/en/segwit_wallet_dev/)|
 Wallet|Wallet Development in Bitcoin Core|[Wallet Development in Bitcoin Core seminar video](https://youtu.be/j0V8elTzYAA)|
 Wallet|HD wallet|[Hierarchical Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), [Multi-Account Hierarchy for Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki), [HD Wallets Explained: From High Level to Nuts and Bolts](https://medium.com/bitcraft/hd-wallets-explained-from-high-level-to-nuts-and-bolts-9a41545f5b0)|
+Wallet|Native Descriptor Wallets|[Native Descriptor Wallets](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25)|
 Wallet|Wallet BerkeleyDB key value store, data file, environment, logs, flushing|[Migration from Berkeley DB to LevelDB](https://bitcoin.stackexchange.com/questions/51435/migration-from-berkeley-db-to-leveldb), ([also see BIP 50](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki))|
 Wallet|Wallet key types: Regular, watch-only, hd|[Wallets and Accounts and Keys, Oh My!](http://bcoin.io/guides/wallets.html)|
 Wallet|Wallet key management: Keypools, key metadata, address metadata|[Understanding keypool in Bitcoin Core](https://bitcointalk.org/index.php?topic=2940114.msg30228579#msg30228579), [Understanding the Gap Limit](https://blog.blockonomics.co/bitcoin-what-is-this-gap-limit-4f098e52d7e1)|
