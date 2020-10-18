@@ -123,7 +123,7 @@ Wallet|Fees|[The Fee Market Explained](https://medium.com/@jimmysong/the-fee-mar
 Wallet|Fee estimation|[Fee estimation code exercise](https://youtu.be/PYA1f2xlIOM)|
 Wallet|Replace by Fee|[Opt-in Full Replace-by-Fee Signaling](https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki), [Support for zero-confirmation transactions at Bitcoin ATM](https://coinatmradar.com/blog/support-zero-confirmation-transactions-at-bitcoin-atm/)|
 Wallet|Coin selection| [Unspent Management and Coin Selection](https://www.youtube.com/watch?v=hrlNN3BSB6w), [Coin Selection](https://bitcoinedge.org/tutorial/dpp105-karl-johan-alm-bitcoin-wallets-coin-selection), [Coin Selection (Scaling 2016)](https://scalingbitcoin.org/transcript/milan2016/coin-selection), [An Evaluation of Coin Selection Strategies](http://murch.one/wp-content/uploads/2016/11/erhardt2016coinselection.pdf)|
-Wallet|Hardware wallets with Bitcoin core|[Using your hardware wallet with Bitcoin Core](https://vimeo.com/316634495)|
+Wallet|Hardware wallets with Bitcoin core| |
 Scripts & Contracts|Scripting & Transactions|[Scripts - general & simple video](https://youtu.be/np-SCwkqVy4)|
 Scripts & Contracts|Scripting & Transactions|[Bitcoin Script: Past and Future video](https://youtu.be/H-wH6mY9pZo?t=2504)|
 Scripts & Contracts|Scripting & Transactions - P2PKH, P2SH, P2WPKH, P2WSH, Bech32|[P2PKH, P2WPKH, P2SH, P2WSH](https://www.youtube.com/watch?time_continue=8&v=nrYOMjVmqi8), [Dissecting a P2PKH Bitcoin Transaction down to the last Byte](https://youtu.be/1n4g3eYX1UI),  [Bitcoin Multisig and P2SH Transactions](https://www.youtube.com/watch?v=K-ccC9YZ8UI)|
