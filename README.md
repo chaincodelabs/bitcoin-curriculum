@@ -13,14 +13,14 @@ There are two portions to this curriculum:
 
 | Subject                       | Topic  | Sources | progress |
 |-------------------------------|--------|---------|----------|
-Introduction|White Paper|[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)| ✔️
-Introduction|If I'd Known What We Were Starting (2017)|[If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)| ✔️
-Introduction|Bitcoin's Academic Pedigree (2017)|[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|
-Introduction|Intro to Blockchain|[What is blockchain anyway?](https://www.youtube.com/watch?v=on5ySFK0aoY)| ✔️
-Introduction|Intro to Blockchain|[Electronic cash explained for developers video](https://www.youtube.com/watch?v=TrF9RmfyLbw)| ✔️
+Introduction|White Paper|[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)|  ✔️
+Introduction|If I'd Known What We Were Starting (2017)|[If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)|  ✔️
+Introduction|Bitcoin's Academic Pedigree (2017)|[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)|  ✔️
+Introduction|Intro to Blockchain|[What is blockchain anyway?](https://www.youtube.com/watch?v=on5ySFK0aoY)|  ✔️
+Introduction|Intro to Blockchain|[Electronic cash explained for developers video](https://www.youtube.com/watch?v=TrF9RmfyLbw)|  ✔️
 Introduction|The Economic Limits of Bitcoin and the Blockchain|[The Economic Limits of Bitcoin and the Blockchain](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)|
 Introduction|Proof of work|[The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667), [Bitcoin Developer Reference](https://lopp.net/pdf/Bitcoin_Developer_Reference.pdf)| ✔️
-Introduction|Difficulty adjustment|[What keeps the average block time at 10 minutes?](https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes/857#857)|
+Introduction|Difficulty adjustment|[What keeps the average block time at 10 minutes?](https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes/857#857)|  ✔️
 Introduction|Byzantine generals problem|[The Byzantine Generals Problem](http://diyhpl.us/~bryan/papers2/bitcoin/The%20Byzantine%20generals%20problem%20-%20Lamport%20-%201982.pdf)|
 Introduction|Running a full node|[Full Node Question](https://www.reddit.com/r/BitcoinBeginners/comments/3eq3y7/full_node_question/ctk4lnd/)|
 History & Philosophy of Bitcoin|History of Bitcoin Development| [The Incomplete History of Bitcoin Development](https://b10c.me/The-incomplete-history-of-Bitcoin-development/)|
