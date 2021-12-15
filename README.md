@@ -23,13 +23,13 @@ Introduction|Proof of work|[The Anatomy of Proof-of-Work](https://bitcointechtal
 Introduction|Difficulty adjustment|[What keeps the average block time at 10 minutes?](https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes/857#857)|  ✔️
 Introduction|Byzantine generals problem|[The Byzantine Generals Problem](http://diyhpl.us/~bryan/papers2/bitcoin/The%20Byzantine%20generals%20problem%20-%20Lamport%20-%201982.pdf)|
 Introduction|Running a full node|[Full Node Question](https://www.reddit.com/r/BitcoinBeginners/comments/3eq3y7/full_node_question/ctk4lnd/)|  ✔️
-History & Philosophy of Bitcoin|History of Bitcoin Development| [The Incomplete History of Bitcoin Development](https://b10c.me/The-incomplete-history-of-Bitcoin-development/)|
-History & Philosophy of Bitcoin|What is consensus?| [Consensus Algorithms, Blockchain Technology and Bitcoin](https://www.youtube.com/watch?v=fw3WkySh_Ho)|
-Soft Forks & protocol overview|On Unstoppability of Softforks|[On Unstoppability of Softforks](https://zmnscpxj.github.io/bitcoin/unpreventable-softforks.html)|
+History & Philosophy of Bitcoin|History of Bitcoin Development| [The Incomplete History of Bitcoin Development](https://b10c.me/The-incomplete-history-of-Bitcoin-development/)| ✔️
+History & Philosophy of Bitcoin|What is consensus?| [Consensus Algorithms, Blockchain Technology and Bitcoin](https://www.youtube.com/watch?v=fw3WkySh_Ho)| ✔️
+Soft Forks & protocol overview|On Unstoppability of Softforks|[On Unstoppability of Softforks](https://zmnscpxj.github.io/bitcoin/unpreventable-softforks.html)| ✔️
 Soft Forks & protocol overview|Example soft forks|[Softfork wiki page](https://en.bitcoin.it/wiki/Softfork)|
-Soft Forks & protocol overview|Forking signaling and Activation|[Forks, Signaling, and Activation](https://medium.com/@elombrozo/forks-signaling-and-activation-d60b6abda49a)|
+Soft Forks & protocol overview|Forking signaling and Activation|[Forks, Signaling, and Activation](https://medium.com/@elombrozo/forks-signaling-and-activation-d60b6abda49a)|✔️
 Soft Forks & protocol overview|Fork categorization (soft, hard, evil, etc.)|[Better Fork Terminology](http://www.truthcoin.info/blog/protocol-upgrade-terminology/), [Forced Soft Forks](https://petertodd.org/2016/forced-soft-forks)|
-Soft Forks & protocol overview|Flag day upgrades|[UASF: User Driven Protocol Development](https://medium.com/@bergealex4/uasf-user-driven-protocol-development-da4e886832d)|
+Soft Forks & protocol overview|Flag day upgrades|[UASF: User Driven Protocol Development](https://medium.com/@bergealex4/uasf-user-driven-protocol-development-da4e886832d)|✔️
 Soft Forks & protocol overview|IsSuperMajority signaling|[BIP 65](https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki)|
 Soft Forks & protocol overview|BIP9 signaling|[BIP9: versionbits In a Nutshell](https://rusty.ozlabs.org/?p=576), [BIP 9](https://github.com/bitcoin/bips/blob/master/bip-0009.mediawiki)|
 Soft Forks & protocol overview|BIP148 and BIP149|[BIP 148](https://github.com/bitcoin/bips/blob/master/bip-0148.mediawiki), [BIP 149](https://github.com/bitcoin/bips/blob/master/bip-0149.mediawiki), [UASF BIP148 Scenarios and Game Theory](https://medium.com/@jimmysong/uasf-bip148-scenarios-and-game-theory-9530336d953e), [User Activated Soft Forks: the BIP 148 alternative](https://medium.com/segwit-co/user-activated-soft-forks-the-bip-148-alternative-28e87ffdb76f)|
