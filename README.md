@@ -108,7 +108,7 @@ SegWit|SegWit background and history|[Understanding Segregated Witness](https://
 SegWit|Advanced SegWit|[Advanced SegWit seminar video](https://youtu.be/JgNgnwF9hfY) |
 SegWit|SegWit and scalabilty|[Segregated Witness and deploying it for Bitcoin (2015)](https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/) |
 SegWit|Tx malleability|[Transaction Malleability Explained](https://bitcointechtalk.com/transaction-malleability-explained-b7e240236fc7), [Transaction Malleability Explained, 2014](https://www.youtube.com/watch?v=jyDE-aFqJTs), [The Who, What, Why and How of the Ongoing Transaction Malleability Attack](https://bitcoinmagazine.com/articles/the-who-what-why-and-how-of-the-ongoing-transaction-malleability-attack-1444253640/), [Dealing with malleability](https://github.com/bitcoin/bips/blob/master/bip-0062.mediawiki), [Bitcoin Transaction Malleability and MtGox](https://arxiv.org/pdf/1403.6676.pdf)|
-SegWit|Tx malleability|[Malleation code exericse repo](https://github.com/dongcarl/malleability-exercise)|
+SegWit|Tx malleability|[Malleation code exercise repo](https://github.com/dongcarl/malleability-exercise)|
 SegWit|SegWit and blocksize|[Understanding Segwit Block Size](https://medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4)|
 SegWit|Bech32|[New address type for segwit addresses](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) |
 SegWit|Wallet Development|[Segregated Witness Wallet Development Guide](https://bitcoincore.org/en/segwit_wallet_dev/)|
