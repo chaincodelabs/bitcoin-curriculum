@@ -2,7 +2,7 @@
 
 While planning the [Chaincode Residency](https://residency.chaincode.com/), we put considerable effort into finding the best resources and creating a curriculum around Bitcoin protocol development. You can find all of our published materials on our [resources page](https://residency.chaincode.com/resources.html#resources).
 
-Bitcoin is constantly evolving, and so we expect maintenance of this document to be an ongoing task. We could use your help. Please **consider opening a pull-request or [opening an issue](https://github.com/chaincodelabs/bitcoin-curriculum/issues/new)** to keep this document relevant.
+Bitcoin is constantly evolving, and so we expect maintenance of this document to be an ongoing task. We could use your help. Please **consider opening a pull-request or [an issue](https://github.com/chaincodelabs/bitcoin-curriculum/issues/new)** to keep this document relevant.
 
 There are two portions to this curriculum:
 1. [Study Groups](https://github.com/chaincodelabs/study-groups#bitcoin) designed to provide grouped subjects that you can either complete bookclub style or alone.
